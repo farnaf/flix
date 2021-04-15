@@ -16,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="ezgif-2-e535079048d6.gif" width=250><br>
 
 ### Notes
 When doing the collectionView part of this assignment, I initially wanted to program it myself since Tim mentioned that collectionView setup is similar to the tableView that we did in assignment 1. Programming it myself without double checking my work with the recorded lessons was very challenging, but taught me that I need to try new lessons out myself to make sure I can work on future projects without depending on youtube videos. 
